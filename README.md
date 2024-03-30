@@ -1,16 +1,32 @@
-### Hi there 👋
+# ANANT VIJAY 🚀
 
-<!--
-**AnantVijay16/AnantVijay16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm Anant Vijay, a passionate full-stack developer with a love for crafting web applications and a diverse skill set in various programming languages and tools. Welcome to my GitHub universe! 🌌
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Full-stack Developer
+- 💻 Always eager to learn and explore new technologies 🧠
+
+
+### My Tech Stack
+
+| **Programming Languages** | Python 🐍 | JavaScript 🚀 | C++ 🖥️ | C 📚 |
+|---------------------------|-----------|------------------|-------|-----|
+| **Web Technologies**       | Flask 🌐  | HTML 🕸️         | CSS 🎨 | React ⚛️ |
+| **Databases**              | SQL 🛢️    | MongoDB 🍃       |       |     |
+| **Other Skills**           | Git 🔄    | GitHub 🐙        | Node.js 🟩 | Express.js 🚂 |
+
+
+### GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnantVijay16&sideNums=9BEBE5)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnantVijay16&layout=compact)
+
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnantVijay16&show_icons=true&theme=radical)
+
+
+
+## Get in Touch
+
+- LinkedIn: [Adarsh Mishra](https://www.linkedin.com/in/anantvijay16/)

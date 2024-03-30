@@ -29,4 +29,4 @@
 
 ## Get in Touch
 
-- LinkedIn: [Adarsh Mishra](https://www.linkedin.com/in/anantvijay16/)
+- LinkedIn: [Anant Vijay](https://www.linkedin.com/in/anantvijay16/)
